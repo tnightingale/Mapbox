@@ -6,7 +6,7 @@ repositories {
 }
 
 dependencies {
-    compile ('com.mapbox.mapboxsdk:mapbox-android-sdk:2.3.0-SNAPSHOT@aar'){
+    compile ('com.mapbox.mapboxsdk:mapbox-android-sdk:2.3.0@aar'){
         transitive=true
     }
 }
